@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'helloWorld_alleine' target in the 'helloWorld_alleine' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
