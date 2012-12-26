@@ -14,6 +14,7 @@
 		8615B43A15DBC3F800C5D350 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 8615B43915DBC3F800C5D350 /* AppDelegate.m */; };
 		8615B43D15DBC3F800C5D350 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8615B43B15DBC3F800C5D350 /* MainMenu.xib */; };
 		8615B44015DBC3F800C5D350 /* helloWorld_alleine.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 8615B43E15DBC3F800C5D350 /* helloWorld_alleine.xcdatamodeld */; };
+		8615B44815DBC4A800C5D350 /* HelloController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8615B44715DBC4A800C5D350 /* HelloController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,8 @@
 		8615B43915DBC3F800C5D350 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		8615B43C15DBC3F800C5D350 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainMenu.xib; sourceTree = "<group>"; };
 		8615B43F15DBC3F800C5D350 /* helloWorld_alleine.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = helloWorld_alleine.xcdatamodel; sourceTree = "<group>"; };
+		8615B44615DBC4A800C5D350 /* HelloController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HelloController.h; sourceTree = "<group>"; };
+		8615B44715DBC4A800C5D350 /* HelloController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HelloController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +90,8 @@
 				8615B43815DBC3F800C5D350 /* AppDelegate.h */,
 				8615B43915DBC3F800C5D350 /* AppDelegate.m */,
 				8615B43B15DBC3F800C5D350 /* MainMenu.xib */,
+				8615B44615DBC4A800C5D350 /* HelloController.h */,
+				8615B44715DBC4A800C5D350 /* HelloController.m */,
 				8615B43E15DBC3F800C5D350 /* helloWorld_alleine.xcdatamodeld */,
 				8615B42D15DBC3F700C5D350 /* Supporting Files */,
 			);
@@ -172,6 +177,7 @@
 				8615B43315DBC3F800C5D350 /* main.m in Sources */,
 				8615B43A15DBC3F800C5D350 /* AppDelegate.m in Sources */,
 				8615B44015DBC3F800C5D350 /* helloWorld_alleine.xcdatamodeld in Sources */,
+				8615B44815DBC4A800C5D350 /* HelloController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
